@@ -8,7 +8,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8253242144:AAGrX7Hs3e7l3sN5D2K0UPfA6VGmX10uS
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = (
-        "🎵 *Namaste! Welcome to Ruivika Music Bot* 🎵\n\n"
+        "🎵 *Namaste! Welcome to Ruivika Music Bot Join the backup channel @speedoo_bhaii_bot* 🎵\n\n"
         "Mujhe kisi bhi gaane ka naam bhejo (Jaise: `Kesariya` ya `Believer`).\n"
         "Main gaana search karke direct audio send kar doonga!"
     )
